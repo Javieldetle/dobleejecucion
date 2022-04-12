@@ -22,29 +22,29 @@ public class DibujoPolares {
 
             }
             if (radio > 0.2 && radio < 0.3) {
-                return new Color(253, 6, 6, 242);
+                return new Color(253, 204, 6, 242);
 
             }
             if (radio > 0.3 && radio < 0.4) {
-                return new Color(253, 6, 6, 242);
+                return new Color(253, 220, 6, 242);
 
             }
 
 
             if (radio > 0.4 && radio < 0.5) {
-                return new Color(255, 255, 255, 255);
+                return new Color(145, 211, 35, 95);
 
             }
             if (radio > 0.5 && radio < 0.6) {
-                return new Color(255, 255, 255, 255);
+                return new Color(145, 211, 35, 95);
 
             }
             if (radio > 0.6 && radio < 0.7) {
-                return new Color(255, 255, 255, 255);
+                return new Color(12, 12, 12, 255);
 
             }
             if (radio > 0.7 && radio < 0.8) {
-                return new Color(255, 255, 255);
+                return new Color(0, 0, 0);
 
             }
 

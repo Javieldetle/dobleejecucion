@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="fa8aee37-9feb-4c8e-ae6d-352ced8fb9a8" name="Changes" comment="marge a master">
-      <change beforePath="$PROJECT_DIR$/src/DibujoCartesianas.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/DibujoCartesianas.java" afterDir="false" />
-    </list>
+    <list default="true" id="fa8aee37-9feb-4c8e-ae6d-352ced8fb9a8" name="Changes" comment="el mar" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -21,7 +19,7 @@
   <component name="Git.Settings">
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$" value="master" />
+        <entry key="$PROJECT_DIR$" value="cartesianos" />
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -41,7 +39,7 @@
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.2" />
   </component>
-  <component name="RunManager" selected="Application.DibujoCartesianas">
+  <component name="RunManager" selected="Application.DibujoPolares">
     <configuration name="DibujoCartesianas" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="DibujoCartesianas" />
       <module name="abanderado" />
@@ -58,8 +56,8 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.DibujoCartesianas" />
         <item itemvalue="Application.DibujoPolares" />
+        <item itemvalue="Application.DibujoCartesianas" />
         <item itemvalue="Application.DibujoCartesianas" />
         <item itemvalue="Application.DibujoCartesianas" />
         <item itemvalue="Application.DibujoPolares" />
@@ -89,7 +87,21 @@
       <option name="project" value="LOCAL" />
       <updated>1649783191450</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="el mar">
+      <created>1649785062461</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1649785062461</updated>
+    </task>
+    <task id="LOCAL-00004" summary="el mar">
+      <created>1649785083580</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1649785083580</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -106,10 +118,11 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="eliminar rojo" />
     <MESSAGE value="marge a master" />
-    <option name="LAST_COMMIT_MESSAGE" value="marge a master" />
+    <MESSAGE value="el mar" />
+    <option name="LAST_COMMIT_MESSAGE" value="el mar" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/dobleejecucion$DibujoPolares.ic" NAME="DibujoPolares Coverage Results" MODIFIED="1649783024567" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
-    <SUITE FILE_PATH="coverage/dobleejecucion$DibujoCartesianas.ic" NAME="DibujoCartesianas Coverage Results" MODIFIED="1649784752807" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+    <SUITE FILE_PATH="coverage/dobleejecucion$DibujoCartesianas.ic" NAME="DibujoCartesianas Coverage Results" MODIFIED="1649784944875" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
   </component>
 </project>
